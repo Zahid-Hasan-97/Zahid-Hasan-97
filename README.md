@@ -1,21 +1,21 @@
 <img src="https://github.com/Zahid-Hasan-97/Zahid-Hasan-97/blob/main/banner.png?raw=true" alt="Zahid Hasan Banner" width="100%" />
 
 # 👋 Hi, I'm Zahid Hasan
-
-### 💻 Frontend Developer
+##  Frontend Developer
 
 ---
 
 ## 🧑‍💻 About Me
-
-- 🔥 Passionate about building modern, responsive web applications.
-- 🎯 Focused on delivering clean UI and smooth user experiences.
-- 🚀 Currently learning **Next.js** and **advanced React patterns**.
+   Passionate and dedicated developer with a strong interest in creating innovative web solutions. I love coding, learning new technologies, and working on exciting projects.
+## Current Activities
+- 🎯 Dreaming and working towards becoming a **Full Stack Web Developer**.
+- 🚀 Currently learning **Next.js**.
+- 💡 Continuously learning and adapting to new technologies and best practices.
 - 🌱 Always open to new challenges and collaboration opportunities.
 
 <br/>
 
-## 🛠️ Tech Stack
+## 👨‍💻 Development Arsenal
 
 Here's a glimpse into the technologies and tools I wield:
 
@@ -49,10 +49,10 @@ Here's a glimpse into the technologies and tools I wield:
 
 
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zahid-hasan-ab3b9418a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md.zahid.hasan.topu@gmail.com) 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zahid-Hasan-97&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Zahid-Hasan-97&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahid-Hasan-97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -61,7 +61,7 @@ Here's a glimpse into the technologies and tools I wield:
 ![](https://github-profile-trophy.vercel.app/?username=Zahid-Hasan-97&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Zahid-Hasan-97&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
