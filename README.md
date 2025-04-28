@@ -1,6 +1,17 @@
-## 🚀 About Me
+<img src="https://github.com/Zahid-Hasan-97/Zahid-Hasan-97/blob/main/banner.png?raw=true" alt="Zahid Hasan Banner" width="100%" />
 
-A passionate developer with a diverse skillset, experienced in building modern web applications and utilizing various design and collaboration tools.
+# 👋 Hi, I'm Zahid Hasan
+
+### 💻 Frontend Developer
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔥 Passionate about building modern, responsive web applications.
+- 🎯 Focused on delivering clean UI and smooth user experiences.
+- 🚀 Currently learning **Next.js** and **advanced React patterns**.
+- 🌱 Always open to new challenges and collaboration opportunities.
 
 <br/>
 
