@@ -1,7 +1,6 @@
 <img src="https://github.com/Zahid-Hasan-97/Zahid-Hasan-97/blob/main/banner.png?raw=true" alt="Zahid Hasan Banner" width="100%" />
 
-# 👋 Hi, I'm Zahid Hasan
-##     Frontend Developer
+# 👋 Hi, I'm Zahid Hasan — Frontend Developer
 
 ---
 
