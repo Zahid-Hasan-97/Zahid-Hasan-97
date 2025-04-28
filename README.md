@@ -1,9 +1,6 @@
 <img src="https://github.com/Zahid-Hasan-97/Zahid-Hasan-97/blob/main/banner.png?raw=true" alt="Zahid Hasan Banner" width="100%" />
 
-<h1 class="text-4xl font-bold text-center transition duration-700 ease-in-out transform hover:scale-110">
-  👋 Hi, I'm <span class="text-blue-500">Zahid Hasan</span>
-</h1>
-<h2 class="text-2xl text-center mt-2">Frontend Developer</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Zahid+Hasan)](https://git.io/typing-svg)
 
 ---
 
