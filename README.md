@@ -1,9 +1,21 @@
 <img src="https://github.com/Zahid-Hasan-97/Zahid-Hasan-97/blob/main/banner.png?raw=true" alt="Zahid Hasan Banner" width="100%" />
 
-<h1 class="text-4xl font-bold animate-fade-down">
-  👋 Hi, I'm <span class="text-blue-500">Zahid Hasan</span>
-</h1>
-<h2 class="text-2xl mt-2">Frontend Developer</h2>
+<div class="text-4xl font-bold text-center">
+  👋 Hi, I'm <span class="border-r-2 border-black animate-typing overflow-hidden whitespace-nowrap">Zahid Hasan</span>
+</div>
+<h2 class="text-2xl text-center mt-2">Frontend Developer</h2>
+
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+.animate-typing {
+  display: inline-block;
+  animation: typing 2s steps(20) forwards;
+  width: 0;
+}
+</style>
 
 ---
 
