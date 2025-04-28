@@ -1,6 +1,12 @@
 <img src="https://github.com/Zahid-Hasan-97/Zahid-Hasan-97/blob/main/banner.png?raw=true" alt="Zahid Hasan Banner" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&width=435&height=100&lines=Zahid+Hasan)](https://git.io/typing-svg)
+
+
+<h1 align="center">
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&width=435&height=100&lines=Zahid+Hasan)](https://git.io/typing-svg)
+</h1>
+
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
 ---
 
