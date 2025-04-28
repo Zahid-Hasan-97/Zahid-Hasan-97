@@ -1,12 +1,13 @@
 <img src="https://github.com/Zahid-Hasan-97/Zahid-Hasan-97/blob/main/banner.png?raw=true" alt="Zahid Hasan Banner" width="100%" />
 
 # 👋 Hi, I'm Zahid Hasan
-##  Frontend Developer
+##    Frontend Developer
 
 ---
 
 ## 🧑‍💻 About Me
-   Passionate and dedicated developer with a strong interest in creating innovative web solutions. I love coding, learning new technologies, and working on exciting projects.
+   A full-time Frontend Developer from Bangladesh
+   
 ## Current Activities
 - 🎯 Dreaming and working towards becoming a **Full Stack Web Developer**.
 - 🚀 Currently learning **Next.js**.
@@ -16,8 +17,6 @@
 <br/>
 
 ## 👨‍💻 Development Arsenal
-
-Here's a glimpse into the technologies and tools I wield:
 
 ### 💻 Languages
 
