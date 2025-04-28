@@ -50,12 +50,9 @@ Here's a glimpse into the technologies and tools I wield:
 ![](https://github-profile-trophy.vercel.app/?username=Zahid-Hasan-97&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-[![Zahid's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zahid-Hasan-97)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Zahid-Hasan-97&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
