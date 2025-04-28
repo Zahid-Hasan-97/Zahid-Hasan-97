@@ -46,10 +46,10 @@
 
 <br/>
 
-
-
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zahid-hasan-ab3b9418a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md.zahid.hasan.topu@gmail.com) 
+
+<br/>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zahid-Hasan-97&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -62,9 +62,6 @@
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Zahid-Hasan-97&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
 
 <br/>
 
