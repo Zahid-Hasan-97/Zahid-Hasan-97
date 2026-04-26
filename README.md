@@ -54,6 +54,18 @@
 <br/>
 
 ## 📊 GitHub Stats:
+
+## 🧠 Competitive Programming Stats
+
+### 🔶 LeetCode
+![](https://leetcard.jacoblin.cool/Zahid_Hasan_97?theme=dark&font=Baloo&ext=contest)
+
+### 🔵 Codeforces
+![](https://codeforces-readme-stats.vercel.app/api/card?username=Hasan_Zahid&theme=dark)
+
+### 🟢 HackerRank
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/Hasan_Zahid)
+
 ![](https://github-readme-stats.vercel.app/api?username=Zahid-Hasan-97&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Zahid-Hasan-97&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahid-Hasan-97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
