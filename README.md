@@ -47,7 +47,16 @@
 <br/>
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zahid-hasan-ab3b9418a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md.zahid.hasan.topu@gmail.com) 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zahidhasan96/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Zahid%20Hasan-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:md.zahid.hasan.topu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p> 
 
 
 
