@@ -70,7 +70,9 @@
 ![](https://leetcard.jacoblin.cool/Zahid_Hasan_97?theme=dark&font=Baloo&ext=contest)
 
 ### 🔵 Codeforces
-![](https://codeforces-readme-stats.vercel.app/api/card?username=Hasan_Zahid&theme=dark)
+### 🔵 Codeforces
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Hasan_Zahid-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Hasan_Zahid)
 
 ### 🟢 HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/Hasan_Zahid)
