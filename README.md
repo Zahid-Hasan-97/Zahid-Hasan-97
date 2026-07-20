@@ -1,93 +1,153 @@
-<img src="https://github.com/Zahid-Hasan-97/Zahid-Hasan-97/blob/main/banner.png?raw=true" alt="Zahid Hasan Banner" width="100%" />
+<img src="https://github.com/Zahid-Hasan-97/Zahid-Hasan-97/blob/main/banner.png?raw=true" width="100%" />
 
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Zahid+Hasan" alt="Typing SVG" /></a>
-</h1>
+<h1 align="center">Hi 👋, I'm Zahid Hasan</h1>
 
-<h3 align="center">Frontend Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">
+Software Developer | React.js • Next.js • JavaScript • Node.js • MongoDB
+</h3>
+
+<p align="center">
+Passionate about building modern web applications and continuously improving my software engineering skills.
+Currently expanding my backend expertise with Python, FastAPI, and Django.
+</p>
 
 ---
 
-## Current Activities
-- 🎯 Dreaming and working towards becoming a **Full Stack Web Developer**.
-- 🚀 Currently learning **Next.js**.
-- 💡 Continuously learning and adapting to new technologies and best practices.
-- 🌱 Always open to new challenges and collaboration opportunities.
+# 👨‍💻 About Me
 
-<br/>
+- 💼 Former **Software Developer Intern**
+- 🌱 Currently learning **Python, FastAPI & Django**
+- 🚀 Strong foundation in **React.js, Next.js, Node.js & MongoDB**
+- 💡 Interested in **Backend Engineering, System Design & AI**
+- 🎯 Long-term goal: **Software Engineer → Backend Engineer → AI/Data Engineer**
 
-## 👨‍💻 Development Arsenal
+---
 
-### 💻 Languages
+# 🚀 Featured Projects
 
-* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🏢 iX Design Studio
 
-### ⚛️ Frontend
+Modern architecture & interior design website built with Next.js.
 
-* ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-* ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+**Tech Stack**
 
-### ⚙️ Backend
+React.js • Next.js • Tailwind CSS • Framer Motion
 
-* ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-* ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=%23fff)
-* ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+🔗 Live: https://i-x-design-studio.vercel.app/
 
-### 🛠️ Tools & IDEs
+---
 
-* ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-* ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-* ![Pixso](https://img.shields.io/badge/Pixso-000000?style=for-the-badge&logo=pixso&logoColor=white)
-* ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-* ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## 🚗 Rentora
 
-<br/>
+Full-stack Car Rental Platform with authentication, booking and dashboard.
 
-## 🌐 Connect with Me:
+**Tech Stack**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/zahidhasan96/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Zahid%20Hasan-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <a href="mailto:md.zahid.hasan.topu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p> 
+React.js • Node.js • Express.js • MongoDB • Firebase • JWT
 
+---
 
+## 📦 Inventory Management System
 
-<br/>
+Inventory & warehouse management system with secure authentication.
 
-## 📊 GitHub Stats:
+**Tech Stack**
 
-## 🧠 Competitive Programming Stats
+React.js • Node.js • Express.js • MongoDB • Firebase • Cloudinary
 
-### 🔶 LeetCode
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Python
+- C
+- C++
+
+## Frontend
+
+- React.js
+- Next.js
+- Tailwind CSS
+- DaisyUI
+
+## Backend
+
+- Node.js
+- Express.js
+- MongoDB
+- REST API
+- Firebase Authentication
+- JWT
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- PyCharm
+- Figma
+- Canva
+- Postman
+- Vercel
+- Render
+
+---
+
+# 🧠 Competitive Programming
+
+### LeetCode
+
 ![](https://leetcard.jacoblin.cool/Zahid_Hasan_97?theme=dark&font=Baloo&ext=contest)
 
-### 🔵 Codeforces
-### 🔵 Codeforces
+### Codeforces
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Hasan_Zahid-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Hasan_Zahid)
 
-### 🟢 HackerRank
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/Hasan_Zahid)
+### HackerRank
 
-![](https://github-readme-stats.vercel.app/api?username=Zahid-Hasan-97&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Zahid-Hasan-97&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahid-Hasan-97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/Hasan_Zahid)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zahid-Hasan-97&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
+# 📈 GitHub Statistics
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Zahid-Hasan-97&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=Zahid-Hasan-97&show_icons=true&theme=tokyonight&hide_border=true)
 
-<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Zahid-Hasan-97&theme=tokyonight&hide_border=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahid-Hasan-97&layout=compact&theme=tokyonight&hide_border=true)
 
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Zahid-Hasan-97&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+# 🤝 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/zahidhasan96">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:md.zahid.hasan.topu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Zahid-Hasan-97">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+⭐ *Always learning. Always building.*
